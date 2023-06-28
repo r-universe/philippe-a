@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ArchaeoChron"]
 	path = ArchaeoChron
 	url = https://github.com/cran/ArchaeoChron
-	shallow = true
-	registered = true
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/cran/ArchaeoPhases.dataset
-	shallow = true
-	registered = true
 [submodule "RChronoModel"]
 	path = RChronoModel
 	url = https://github.com/cran/RChronoModel
-	shallow = true
-	registered = true
