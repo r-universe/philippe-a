@@ -5,6 +5,3 @@
 [submodule "ArchaeoPhases.dataset"]
 	path = ArchaeoPhases.dataset
 	url = https://github.com/cran/ArchaeoPhases.dataset
-[submodule "RChronoModel"]
-	path = RChronoModel
-	url = https://github.com/cran/RChronoModel
